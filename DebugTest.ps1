@@ -1,4 +1,5 @@
 param([int]$Count=50, [int]$DelayMilliseconds=200)
+# sample commit
 
 function Write-Item($itemCount) {
     $i = 1
